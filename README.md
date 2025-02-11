@@ -59,11 +59,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loop-codes&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="loop-codes" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rk8h&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rk8h" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loop-codes&show_icons=true&locale=en&theme=tokyonight" alt="loop-codes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rk8h&show_icons=true&locale=en&theme=tokyonight" alt="rk8h" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loop-codes&theme=tokyonight" alt="loop-codes" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rk8h&theme=tokyonight" alt="rk8h" /></p>
 
 <br/><br/>
 
